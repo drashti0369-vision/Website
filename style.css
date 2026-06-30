@@ -184,7 +184,7 @@ nav a{
     filter: invert(75%) sepia(50%) saturate(100%) hue-rotate(350deg) brightness(110%) contrast(101%);
 }
 
-item h3{
+.item h3{
     font-size: 1rem;
     font-weight: 500;
 }

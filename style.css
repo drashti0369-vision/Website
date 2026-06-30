@@ -47,7 +47,7 @@ body{
     height: 120px;
     width: 120px;
     border-radius: 50%;
-    border: #3a3a3a;
+    border: 2px solid #3a3a3a;
 }
 
 .profile h2{
